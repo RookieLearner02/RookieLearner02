@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rookielearner02&show_icons=true&locale=en" alt="rookielearner02" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rookielearner02&" alt="rookielearner02" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RookieLearner02&theme=synthwave&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
